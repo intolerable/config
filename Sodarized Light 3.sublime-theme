@@ -1,0 +1,36 @@
+[
+  {
+    "class": "sidebar_label",
+    "font.face": "Roboto",
+  },
+  {
+    "class": "tab_label",
+    "font.face" : "Roboto"
+  },
+  {
+    "class": "label_control",
+    "font.face" : "Roboto"
+  },
+  {
+    "class": "label_control",
+    "parents": [{"class": "panel_control"}],
+    "font.face" : "Roboto"
+  },
+  {
+    "class": "tool_tip_label_control",
+    "font.face": "Roboto"
+  },
+  {
+    "class": "label_control",
+    "parents": [{"class": "status_bar"}],
+    "font.face": "Roboto"
+  },
+  {
+    "class": "sidebar_heading",
+    "font.face": "Roboto"
+  },
+  {
+    "class": "sidebar_label",
+    "font.face": "Roboto"
+  }
+]
